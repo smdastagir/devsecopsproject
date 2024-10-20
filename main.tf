@@ -4,7 +4,7 @@ provider "aws" {
 resource "aws_s3_bucket" "terra-form-augustproject123" {
   bucket = "terraformaugustproject123"
 }
-resource "aws_s3_bucket" "terra-form-augustproject123" {
+resource "aws_s3_bucket" "terra-form-augustproject126" {
   bucket = "terraformaugustproject126"
 }
 terraform {
